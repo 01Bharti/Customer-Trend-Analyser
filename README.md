@@ -20,11 +20,12 @@ The goal of this project is to demonstrate **end-to-end data analytics**, from r
 ---
 
 ## 📁 Repository Structure
-├── Customer_SQL_dataset.csv # Customer dataset
-├── PostgreQuery.sql # SQL queries for data analysis
-├── Trend.ipynb # Jupyter Notebook (PostgreSQL connection & analysis)
-├── pwerBIReport.pbix # Power BI dashboard
-└── README.md # Project documentation
+
+- `Customer_SQL_dataset.csv` – Customer dataset  
+- `PostgreQuery.sql` – SQL queries for data analysis  
+- `Trend.ipynb` – Jupyter Notebook (PostgreSQL connection & analysis)  
+- `pwerBIReport.pbix` – Power BI dashboard  
+- `README.md` – Project documentation  
 
 
 ---
