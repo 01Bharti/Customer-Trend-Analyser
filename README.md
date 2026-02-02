@@ -15,7 +15,8 @@ The goal of this project is to demonstrate **end-to-end data analytics**, from r
 - **PostgreSQL** – Database for structured storage and querying  
 - **SQL Queries** – Data extraction and transformation  
 - **Jupyter Notebook** – Analysis and database connectivity  
-- **Power BI** – Interactive dashboard for insights  
+- **Power BI** – Interactive dashboard for insights
+- <img src="Dashboard.png" width="650"/>
 
 ---
 
